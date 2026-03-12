@@ -5,8 +5,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vmuu&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vmuu&theme=2077)
 
 
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmuu)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+
 <!--
 **vmuu/vmuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
