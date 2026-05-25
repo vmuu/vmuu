@@ -58,16 +58,6 @@
 ![vercel](https://img.shields.io/badge/vercel-black?style=flat-square&logo=vercel)
 ![postman](https://img.shields.io/badge/postman-black?style=flat-square&logo=postman)
 
-## ⚡ GitHub Stats
-
-<p align="center">
-    <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=vmuu&hide_border=true&theme=dark" />
-    <img height="120px" src="https://github-readme-stats.vercel.app/api?username=vmuu&hide_title=true&hide_border=true&show_icons=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" />
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmuu&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
-</p>
-
-![trophy](https://github-trophies.vercel.app/?username=vmuu&theme=onedark&column=-1)
-
 ## ⭐ My Projects
 
 <details>
