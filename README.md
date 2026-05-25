@@ -38,8 +38,27 @@
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss)
 ![css3](https://img.shields.io/badge/css-black?style=flat-square&logo=css&logoColor=1572B6)
 ![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
+![nuxt.js](https://img.shields.io/badge/nuxt.js-black?style=flat-square&logo=nuxt.js)
+![vite](https://img.shields.io/badge/vite-black?style=flat-square&logo=vite)
+![webpack](https://img.shields.io/badge/webpack-black?style=flat-square&logo=webpack)
+![bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
+![ant design](https://img.shields.io/badge/ant_design-black?style=flat-square&logo=ant-design)
+![jquery](https://img.shields.io/badge/jquery-black?style=flat-square&logo=jquery)
 ![electron](https://img.shields.io/badge/electron-black?style=flat-square&logo=electron)
 ![express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
+![django](https://img.shields.io/badge/django-black?style=flat-square&logo=django)
+![flask](https://img.shields.io/badge/flask-black?style=flat-square&logo=flask)
+![fastapi](https://img.shields.io/badge/fastapi-black?style=flat-square&logo=fastapi)
+![nestjs](https://img.shields.io/badge/nestjs-black?style=flat-square&logo=nestjs)
+![gin](https://img.shields.io/badge/gin-black?style=flat-square&logo=gin)
+![grpc](https://img.shields.io/badge/gRPC-black?style=flat-square&logo=grpc)
+![prisma](https://img.shields.io/badge/prisma-black?style=flat-square&logo=prisma)
+
+### Mobile
+
+![react native](https://img.shields.io/badge/react_native-black?style=flat-square&logo=react)
+![flutter](https://img.shields.io/badge/flutter-black?style=flat-square&logo=flutter)
+![android](https://img.shields.io/badge/android-black?style=flat-square&logo=android)
 
 ### DevOps & Tools
 
@@ -51,9 +70,15 @@
 ![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
 ![vscode](https://custom-icon-badges.herokuapp.com/badge/vscode-black.svg?logo=visual-studio-code&logoColor=007ACC&style=flat-square)
 ![intellij](https://img.shields.io/badge/intellij-black?style=flat-square&logo=intellij-idea)
+![nginx](https://img.shields.io/badge/nginx-black?style=flat-square&logo=nginx)
+![caddy](https://img.shields.io/badge/caddy-black?style=flat-square&logo=caddy)
 ![mysql](https://img.shields.io/badge/mysql-black?style=flat-square&logo=mysql)
 ![postgresql](https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql)
+![mongodb](https://img.shields.io/badge/mongodb-black?style=flat-square&logo=mongodb)
+![sqlite](https://img.shields.io/badge/sqlite-black?style=flat-square&logo=sqlite)
+![sql server](https://img.shields.io/badge/sql_server-black?style=flat-square&logo=microsoft-sql-server)
 ![redis](https://img.shields.io/badge/redis-black?style=flat-square&logo=redis)
 ![elasticsearch](https://img.shields.io/badge/elasticsearch-black?style=flat-square&logo=elasticsearch)
+![supabase](https://img.shields.io/badge/supabase-black?style=flat-square&logo=supabase)
 ![vercel](https://img.shields.io/badge/vercel-black?style=flat-square&logo=vercel)
 ![postman](https://img.shields.io/badge/postman-black?style=flat-square&logo=postman)
