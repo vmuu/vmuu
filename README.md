@@ -18,7 +18,7 @@
 
 ## 🚀 Technologies & Tools
 
-### Languages
+### Programming Languages
 
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
