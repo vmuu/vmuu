@@ -82,3 +82,11 @@
 ![supabase](https://img.shields.io/badge/supabase-black?style=flat-square&logo=supabase)
 ![vercel](https://img.shields.io/badge/vercel-black?style=flat-square&logo=vercel)
 ![postman](https://img.shields.io/badge/postman-black?style=flat-square&logo=postman)
+
+### AI Code
+
+![github copilot](https://img.shields.io/badge/github_copilot-black?style=flat-square&logo=github-copilot)
+![cursor](https://img.shields.io/badge/cursor-black?style=flat-square&logo=cursor)
+![claude code](https://img.shields.io/badge/claude_code-black?style=flat-square&logo=anthropic)
+![codex](https://img.shields.io/badge/codex-black?style=flat-square&logo=openai)
+![trae](https://img.shields.io/badge/trae-black?style=flat-square&logo=bytedance)
